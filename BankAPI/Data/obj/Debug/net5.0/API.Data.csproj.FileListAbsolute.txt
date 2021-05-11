@@ -1,0 +1,15 @@
+C:\Data\MyProjects\BankManagement\BankAPI\Data\bin\Debug\net5.0\API.Data.deps.json
+C:\Data\MyProjects\BankManagement\BankAPI\Data\bin\Debug\net5.0\API.Data.dll
+C:\Data\MyProjects\BankManagement\BankAPI\Data\bin\Debug\net5.0\ref\API.Data.dll
+C:\Data\MyProjects\BankManagement\BankAPI\Data\bin\Debug\net5.0\API.Data.pdb
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.csprojAssemblyReference.cache
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.AssemblyInfoInputs.cache
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.AssemblyInfo.cs
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.csproj.CoreCompileInputs.cache
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.dll
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\ref\API.Data.dll
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.pdb
+C:\Data\MyProjects\BankManagement\BankAPI\Data\bin\Debug\net5.0\API.Data.runtimeconfig.json
+C:\Data\MyProjects\BankManagement\BankAPI\Data\bin\Debug\net5.0\API.Data.runtimeconfig.dev.json
+C:\Data\MyProjects\BankManagement\BankAPI\Data\obj\Debug\net5.0\API.Data.genruntimeconfig.cache

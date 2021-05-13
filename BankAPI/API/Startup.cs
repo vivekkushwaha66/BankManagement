@@ -30,6 +30,8 @@ namespace API
         public void ConfigureServices(IServiceCollection services)
         {
 
+            services.AddCors(options => options.AddPolicy(name: "CORS", builder => builder.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod()));
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -52,7 +54,7 @@ namespace API
             app.UseHttpsRedirection();
 
             app.UseRouting();
-
+            app.UseCors("CORS");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
